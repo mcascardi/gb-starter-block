@@ -1,2 +1,8 @@
-# gb-starter-block
-Wordpress Gutenberg block template 
+# Gutenberg Starter Block
+
+Wordpress Gutenberg block template and example.
+
+## Features:
+
+* Rich Text Box
+* Title Attribute
